@@ -2,7 +2,7 @@
 
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur__alves06/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-araujo-b3746734a/)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Arthur-Alvess?cardType=github&theme=Kacho-ga&preferLogin=false&Background=000000&Text=FFFFFF&Title=FF0000&Ring=FF0000&Border=000000)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Arthur-Alvess?cardType=github&theme=Kacho-ga&preferLogin=false&Background=000000&Text=FFFFFF&Title=FF0000&Ring=FF0000&Border=000000)]
 
 ### Tecnologias que uso no meu dia
 
